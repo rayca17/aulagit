@@ -1,0 +1,31 @@
+<head>
+
+    <meta charset= "*UTF-8"/>
+    <style type>="text/css"
+    body{
+        /*propriedades de cor */
+background-color: blueviolet;/*cordofundo/*
+color:red; /*cor da fonte*/*
+/*propriedades da fonte*/
+
+
+ /*    <head>
+
+<meta charset = "*UTF-8" />
+<style type="text/css"
+body {
+   propriedades de cor*\
+backgrond-color: yellow;/cordofundo\
+color:red; /cor da fonte\
+/propriedaddes da fonte\
+font-size: 30px;/tamanho pixels\
+font-family:serif;/*fonte numerica com serifa *\
+font-weight: bold;/peso da fonte (negrito)\
+/*imagem de fundo *\
+back-ground-image: url("fundo.jpg") procure uma imagem na internet salve como fundo.jpg na mesma pasta
+
+}
+
+
+
+</head>
